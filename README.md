@@ -8,7 +8,6 @@ A Full Stack Task Management application built with **React.js**, **Node.js**, *
 
 - ➕ Add New Tasks
 - 📋 View All Tasks
-- ✏️ Update Existing Tasks
 - 🗑️ Delete Tasks
 - 💾 MongoDB Database Integration
 - ⚡ REST API
