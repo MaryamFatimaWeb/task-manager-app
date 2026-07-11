@@ -1,4 +1,4 @@
-# 📋 Task Manager App
+# 📋 Task Manager App (Dec 2025 – Jan 2026)
 
 A Full Stack Task Management application built with **React.js**, **Node.js**, **Express.js**, and **MongoDB**. The application allows users to manage daily tasks efficiently with complete CRUD functionality.
 
